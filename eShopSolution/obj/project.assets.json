@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git_source\\eShopSolution\\eShopSolution.csproj",
+      "projectUniqueName": "D:\\123123\\eShopSolution\\eShopSolution.csproj",
       "projectName": "eShopSolution",
-      "projectPath": "D:\\git_source\\eShopSolution\\eShopSolution.csproj",
+      "projectPath": "D:\\123123\\eShopSolution\\eShopSolution.csproj",
       "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
-      "outputPath": "D:\\git_source\\eShopSolution\\obj\\",
+      "outputPath": "D:\\123123\\eShopSolution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
